@@ -17,7 +17,7 @@
 ----------------------------------------------------------------------------------------------------------------
 
 
-> Deploy Link: [Wather Conditions](https://hayvant.github.io/weatherconditions/)
+> Deploy Link: [Weather Conditions](https://hayvant.github.io/weatherconditions/)
 
 
 ![Weather Conditions Screenshot](./Assets/06-server-side-apis-homework-demo.png)
