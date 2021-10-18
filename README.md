@@ -1,6 +1,6 @@
 # Weather Conditions
 
-This website allows you to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Planning a vacation? Retrieve weather data for various different cities to plan accordingly. View `localStorage` to store any persistent data. 
+> Created a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. Planning a vacation? Retrieve weather data for various different cities to plan accordingly. View `localStorage` to store any persistent data. 
 -------------------------------------------------------------------------------------------------------------
 
 ## This website allows you to:
