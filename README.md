@@ -20,4 +20,4 @@
 > Deploy Link: [Weather Conditions](https://hayvant.github.io/weatherconditions/)
 
 
-![Weather Conditions Screenshot](./Assets/06-server-side-apis-homework-demo.png)
+![Weather Conditions Screenshot]()
